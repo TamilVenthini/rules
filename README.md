@@ -1,7 +1,7 @@
 # FedRAMP Consolidated Rules
 
 This repository contains the machine-readable FedRAMP Consolidated Rules for
-the 2026 Public Preview.
+the 2026.
 
 The source of truth is:
 
