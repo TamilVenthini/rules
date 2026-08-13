@@ -14,7 +14,7 @@ the rules and should not be treated as authoritative rule content.
 ## Source Of Truth
 
 [fedramp-consolidated-rules.json](fedramp-consolidated-rules.json) is the
-source of truth for the FedRAMP Consolidated Rules for 2026 Public Preview.
+source of truth for the FedRAMP Consolidated Rules for 2026.
 
 [schemas/fedramp-consolidated-rules.schema.json](schemas/fedramp-consolidated-rules.schema.json)
 is the source of truth for the expected data shape.
